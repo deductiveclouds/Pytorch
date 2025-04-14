@@ -171,3 +171,8 @@ flagged/
 # Docs
 .cache
 mkdocs-material-insiders
+
+# Custom
+extras/exercises/data
+extras/exercises/going_modular
+extras/exercises/helper_functions.py
